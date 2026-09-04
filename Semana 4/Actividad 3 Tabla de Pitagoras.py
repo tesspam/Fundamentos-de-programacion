@@ -20,7 +20,16 @@ def generar_tabla(tamaño):
 
 
 def imprimir_tabla(tabla):
-    for fila in tabla:
+    n=len(tabla)
+    print("x", end="\t")
+
+    for i in range(1, n + 1):
+        print(i, end="\t")
+    print()
+
+    for i, fila in enumerate(tabla, start=1):
+        print(i, end="\t")
+
         for elemento in fila:
             print(elemento, end="\t")
         print()

@@ -14,3 +14,6 @@ En esta semana realize mi avance del proyecto donde cree un codigo para tener un
 Semana 4 
 Esta semana aprendí a trabajar con matrices y listas en python usando ciclos for para recorrer sus elementos y append para organizar la información. No obstante también ya se crear funciones que regresan un valor y otras que sola muestran información. Practique con prueba y error a realizar las matrices, consultar los datos dentro de una matriz y a resolver operaciones sin usar directamente el operador en la multiplicación.
 
+
+Semana 5
+Con esta actividad aprendí a organizar un programa de funciones independientes para que sea ordenado y fácil de utilizar. Entendí como funcionan las tuplas para guardar datos que no deben de cambiar, los diccionarios para relacionar información como nombres, teléfonos y aprender a utilizar  excepciones para que el programa no se bloquee si se ingresa algo incorrecto.

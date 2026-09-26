@@ -17,3 +17,7 @@ Esta semana aprendí a trabajar con matrices y listas en python usando ciclos fo
 
 Semana 5
 Con esta actividad aprendí a organizar un programa de funciones independientes para que sea ordenado y fácil de utilizar. Entendí como funcionan las tuplas para guardar datos que no deben de cambiar, los diccionarios para relacionar información como nombres, teléfonos y aprender a utilizar  excepciones para que el programa no se bloquee si se ingresa algo incorrecto.
+
+
+Semana 6
+Aprendi a organizarme mejor para la certificacion de python e dominado los fundamentos del lenguaje ya entiendo como manipular estructuras de datos avanzadas como listas, tuplas y diccionarios y como controlar el flujo de un prgrama mediante interacciones y bucles.

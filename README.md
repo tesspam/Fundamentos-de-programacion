@@ -21,3 +21,6 @@ Con esta actividad aprendí a organizar un programa de funciones independientes 
 
 Semana 6
 Aprendi a organizarme mejor para la certificacion de python e dominado los fundamentos del lenguaje ya entiendo como manipular estructuras de datos avanzadas como listas, tuplas y diccionarios y como controlar el flujo de un prgrama mediante interacciones y bucles.
+
+
+Semana 7 Realize mi proyecto final donde resolví una problemática real de la universidad Tecmilenio yo escogí crear un código con todos los temas vistos en clase que me ayudara a registar a los alumnos de prepa y universidad de una manera más organizada la inscripción a los talleres deportivos de flag, fotbal y voleibol.
